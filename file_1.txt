@@ -1,1 +1,2 @@
 ini adalah file_1.txt
+Ini adalah baris tambahan pada commit perubahan
